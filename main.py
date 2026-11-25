@@ -8,7 +8,7 @@ auto-reply, to /output/entry.txt (or to the path given as argv[1]).
 import os
 import sys
 
-ENTRY = "I'm away. My inbox is currently being answered by my cat, who has no thumbs and less patience."
+ENTRY = "I'm away. My inbox has filed a restraining order against your email, so don't expect a reply anytime soon."
 
 
 def main() -> None:
