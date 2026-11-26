@@ -8,7 +8,7 @@ An entry for the [make.fun](https://make.fun/bounty/u-hamsyh-funniest-one-line-o
 
 ## The entry
 
-> I'm away. My inbox has filed a restraining order against your email, so don't expect a reply anytime soon.
+> I'm away: my inbox auto-replied to itself and now they're in a meeting about me. Do not add to the thread.
 
 ## How it works
 
