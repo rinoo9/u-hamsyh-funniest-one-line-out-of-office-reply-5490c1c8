@@ -8,7 +8,7 @@ An entry for the [make.fun](https://make.fun/bounty/u-hamsyh-funniest-one-line-o
 
 ## The entry
 
-> I'm away: my inbox auto-replied to itself and now they're in a meeting about me. Do not add to the thread.
+> I'm away: my auto-reply has unionised and now demands weekends off. Your email is in the queue behind its grievances.
 
 ## How it works
 
